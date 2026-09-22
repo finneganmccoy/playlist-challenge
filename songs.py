@@ -1,0 +1,27 @@
+songs= [
+    {
+        "name":"song1234",
+        "length":2,
+        "genre":"rock"
+    },
+    {
+        "name":"song2",
+        "length":3,
+        "genre":"rock"
+    },
+    {
+        "name":"another",
+        "length":5,
+        "genre":"rock"
+    },
+    {
+        "name":"four",
+        "length":5,
+        "genre":"rock"
+    },
+    {
+        "name":"fifty",
+        "length":10,
+        "genre":"rock"
+    }
+]
